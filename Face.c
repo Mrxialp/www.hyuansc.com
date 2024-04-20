@@ -2,7 +2,7 @@
 
 
 int main(void) {
-	printf("sdsd");
+	printf("121212");
 	getchar();
 	return 0;
 }
